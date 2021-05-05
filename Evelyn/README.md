@@ -11,13 +11,13 @@ Configurações necessárias no NetBeans:
 - Adicionar o arquivo .jar do primeFaces-sources em tools -> libraries -> primefaces -> sources
 - Adicionar o código abaixo no arquivo pom.xml
 
-`` 
+``````
     <dependency>
         <groupId>org.primefaces</groupId>
         <artifactId>primefaces</artifactId>
         <version>5.0</version>
     </dependency>
-``
+``````
 
 ## Unidade de persistência
 

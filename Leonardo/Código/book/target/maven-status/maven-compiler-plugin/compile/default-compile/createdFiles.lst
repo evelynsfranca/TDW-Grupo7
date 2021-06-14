@@ -1,7 +1,6 @@
-tdw\book\JAXRSConfiguration.class
 tdw\entities\Book.class
 tdw\sessionbean\BookFacadeLocal.class
-tdw\book\resources\JavaEE8Resource.class
 tdw\sessionbean\BookFacade.class
 tdw\sessionbean\AbstractFacade.class
 tdw\controller\bookController.class
+tdw\entities\Book_.class

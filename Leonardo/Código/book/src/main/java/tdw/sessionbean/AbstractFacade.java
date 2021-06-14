@@ -8,6 +8,10 @@ package tdw.sessionbean;
 import java.util.List;
 import javax.persistence.EntityManager;
 
+/**
+ *
+ * @author legiT
+ */
 public abstract class AbstractFacade<T> {
 
     private Class<T> entityClass;
